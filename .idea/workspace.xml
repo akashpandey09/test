@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/CommonService/common-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/CommonTestSuite/AutomationSuite" value="PREVIEW" />
+        <entry key="$USER_HOME$/Coupon/CouponAutomation" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Cart/nuclei-cart" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/CommonService/common-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Wallet/WalletAutomation" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Wallet/nuclei-wallet" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/common_service/common-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/Federal/bizdirect-federal-application" value="PREVIEW" />
+        <entry key="$USER_HOME$/Federal/bizdirect-federal-application-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Federal/nuclei-federal-application" value="PREVIEW" />
+        <entry key="$USER_HOME$/Wallet/WalletAutomation" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+</project>
